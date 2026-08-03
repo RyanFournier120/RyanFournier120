@@ -1,16 +1,26 @@
-## Hi there 👋
+## Olá, Eu sou o Ryan 👋
 
-<!--
-**RyanFournier120/RyanFournier120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em Formação
 
-Here are some ideas to get you started:
+Atualmente estou estudando desenvolvimento Web e aprimorando
+minhas habilidades em programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  🚀 Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git e GitHub
+
+- ## 🛠️ Projetos
+
+### 🌴 Paradise Guide
+Site de turismo desenvolvido com HTML, CSS e JavaScript.
+
+### 🎮 Outros projetos
+Em breve...
+
+## 📫 Contato
+
+GitHub: RyanFournier120
