@@ -24,5 +24,5 @@ Em breve...
 
 ## 📫 Contato
 
-GitHub: RyanFournier120
+GitHub: RyanFournier120.
 Email: ryanfmakueyd@gmail.com
