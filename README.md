@@ -16,7 +16,7 @@ minhas habilidades em programação.
 
 - ## 🛠️ Projetos
 
-### 🌴 Paradise Guide
+### 🌴 Viajar Brasil
 Site de turismo desenvolvido com HTML, CSS e JavaScript.
 
 ### 🎮 Outros projetos
