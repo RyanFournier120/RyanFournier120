@@ -5,7 +5,7 @@
 Atualmente estou estudando desenvolvimento Web e aprimorando
 minhas habilidades em programação.
 
-##  🚀 Tecnologias
+## Tecnologias
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,15 +14,15 @@ minhas habilidades em programação.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- ## 🛠️ Projetos
+- ## Projetos
 
-### 🌴 Viajar Brasil
+### Viajar Brasil
 Site de turismo desenvolvido com HTML, CSS e JavaScript.
 
-### 🎮 Outros projetos
+### Outros projetos
 Em breve...
 
-## 📫 Contato
+## Contato
 
 GitHub: RyanFournier120.
 Email: ryanfmakueyd@gmail.com
