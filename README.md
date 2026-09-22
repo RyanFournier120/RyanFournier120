@@ -19,9 +19,6 @@ minhas habilidades em programação.
 ### Viajar Brasil
 Site de turismo desenvolvido com HTML, CSS e JavaScript.
 
-### Outros projetos
-Em breve...
-
 ## Contato
 
 GitHub: RyanFournier120.
