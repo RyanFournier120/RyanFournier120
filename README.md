@@ -14,11 +14,6 @@ minhas habilidades em programação.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- ## Projetos
-
-### Viajar Brasil
-Site de turismo desenvolvido com HTML, CSS e JavaScript.
-
 ## Contato
 
 GitHub: RyanFournier120.
